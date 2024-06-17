@@ -32,7 +32,7 @@ Or **Warp** it somewhat.
 Or make it extremly long and warp.
 ![AI_2024-06-17-21-14-48-442](https://github.com/Blatke/Blendshape-Nails/assets/125734582/688ae38d-94a2-484c-ae28-4519a2f0d4c4)
 
-Sometimes the character wears a full-body tight or something else that even the fingers are totally covered. This means these parts of the clothes covering the fingers might clip with the nails. 
+Sometimes the character wears a full-body tight (such as [my mod of Heels with Tight](https://github.com/Blatke/Heels-with-Tight---HS2-AIS-mod) or some outfits else that even the fingers are totally covered. This means these parts of the clothes covering the fingers might clip with the nails. 
 ![AI_2024-06-17-21-15-46-246](https://github.com/Blatke/Blendshape-Nails/assets/125734582/1ac4c428-c74e-4d84-b67b-6942aeb3fc3b)
 
 To prevent this, you can adjust the **Up** slider to move up the nails a little bit along their normal directions. (The following screenshot is the character wearing _Blendshape Nails_ instead of _Blendshape Nails Separated_, so there are merely two blendshape blocks on the left list.)
