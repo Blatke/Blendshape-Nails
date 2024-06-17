@@ -14,10 +14,13 @@ Start the **Chara Maker** mode, go to **Female** Chara, and check the **Gloves**
 
 ![AI_2024-06-17-20-59-57-323](https://github.com/Blatke/Blendshape-Nails/assets/125734582/faeb6a0a-a139-497d-9987-0a7044a41b2a)
 
-Add what you prefer to your character, and add her in Studio. 
+Add what you prefer to your character.
+Use MaterialEditor to adjust the base color, metaillic and glossiness. If there is a need for customizing the main texture, your can draw patterns on its UV template: 
+![Nails UV template](https://github.com/Blatke/Blendshape-Nails/assets/125734582/1038fe30-4b73-410a-8bc2-89c02759ff6f)
+
 
 ## Adjust It in Studio
-Select her on the Workspace, open the **advanced mode** of **HS2PE/AIPE**, and switch to the **Blendshape tab** on which you can find some new blendshape blocks added on the left list under the basic chara's blendshapes. (The following screenshot is the chara wearing _Blendshape Nails Separated_, so there are 10 blendshape blocks newly added.)
+Add your character in Studio, select her on the Workspace, open the **advanced mode** of **HS2PE/AIPE**, and switch to the **Blendshape tab** on which you can find some new blendshape blocks added on the left list under the basic chara's blendshapes. (The following screenshot is the chara wearing _Blendshape Nails Separated_, so there are 10 blendshape blocks newly added.)
 ![AI_2024-06-17-21-13-41-745](https://github.com/Blatke/Blendshape-Nails/assets/125734582/a674125f-e60b-4085-a254-76d2fa44fc0c)
 
 Click one block on the left list to choose a nail on a finger and move the slider of **Longer** to prolong the nail.
