@@ -1,15 +1,17 @@
 # Blendshape Nails
 This is a HS2/AIS mod for Female Character Gloves.
 
-![AI_2024-06-17-21-17-22-760](https://github.com/Blatke/Blendshape-Nails/assets/125734582/304f37e1-ce09-47a7-b607-6bd2a34e4ac7)
+![AI_2024-06-17-21-17-22-760](https://github.com/Blatke/Blendshape-Nails/assets/125734582/d4ade87f-fbde-49b8-8f6b-3619317747d5)
+
 
 ## How to Add It
-Download the .zipmod file of the latest version on the Release Page.
+Download the .zipmod file of the latest version on the [Release Page](https://github.com/Blatke/Blendshape-Nails/releases).
 Drag and drop the file into your **/mods/** folder in your game directory.
 
 Start the **Chara Maker** mode, go to **Female** Chara, and check the **Gloves** tab on **Outfit** panel. Search for "nails" or "blendshape" on the right box, and find two items:
 1. **Blendshape Nails Separated** - On Blendshape tab, the nail on each finger is separated.
 2. **Blendshape Nails** - On Blendshape tab, the nails are only separated by left and right hands.
+
 ![AI_2024-06-17-20-59-57-323](https://github.com/Blatke/Blendshape-Nails/assets/125734582/faeb6a0a-a139-497d-9987-0a7044a41b2a)
 
 Add what you prefer to your character, and add her in Studio. 
